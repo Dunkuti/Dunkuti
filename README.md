@@ -1,27 +1,49 @@
 <p align="center">
-  <img src="https://i.ibb.co/XZMSLrz8/1768366592695.png" width="160" />
+  <img src="https://i.ibb.co/XZMSLrz8/1768366592695.png" width="120" />
 </p>
 
-<h1 align="center">🌸 Hi, mình là Nguyên Dương 🌸</h1>
-<p align="center">🧸 Cute Developer • Python • Web • Bot</p>
+<h2 align="center">Hi, mình là Dunkuti 👋</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dunkuti&color=ff9ecb&style=flat-square" />
+  <i>Developer • Python • Web • Bot</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dunkuti&color=grey&style=flat" />
 </p>
 
 ---
 
-## 💖 Giới thiệu nhỏ xinh
-- 🌱 Đang học & build project mỗi ngày
-- 🤖 Yêu thích **Bot, API, Automation**
-- 🎀 Phong cách: *Cute nhưng code nghiêm túc*
-- ✨ Motto: *Code không áp lực, chỉ cần đều đặn*
+### 🌱 About
+- Yêu thích build tool nhỏ gọn
+- Học & code mỗi ngày
+- Ưu tiên **đơn giản – dễ dùng – sạch**
 
 ---
 
-## 🧁 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,nodejs,git,github&theme=light" />
+### 🛠 Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,nodejs,git&theme=light" />
+</p>
+
+---
+
+### 📊 Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dunkuti&show_icons=true&hide_title=true&theme=transparent" />
+</p>
+
+---
+
+### ✨ Projects
+- Bot Telegram
+- API tiện ích
+- Web mini
+
+---
+
+### 📫 Contact
+- GitHub: https://github.com/Dunkuti
 </p>
 
 ---
