@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=" https://ibb.co/Z67WXphm" width="160" />
+  <img src="https://i.ibb.co/XZMSLrz8/1768366592695.png" width="160" />
 </p>
 
 <h1 align="center">🌸 Hi, mình là Nguyên Dương 🌸</h1>
