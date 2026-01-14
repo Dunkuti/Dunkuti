@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/XZMSLrz8/1768366592695.png" width="120" />
+  <img src="https://i.ibb.co/JjFwHhC6/1768366484455.png" width="120" />
 </p>
 
 <h2 align="center">Hi, mình là Dunkuti 👋</h2>
