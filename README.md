@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/JjFwHhC6/1768366484455.png" width="140" />
 </p>
 
-<h2 align="center">🌸 Hi, mình là Dunkuti 🌸</h2>
+<h2 align="center">🌸 Hi, mình là Dun 🌸</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1000&color=F58DB6&center=true&vCenter=true&width=300&lines=Cute+Developer;Python+%E2%80%A2+Web+%E2%80%A2+Bot;Learning+Everyday" />
@@ -51,8 +51,8 @@
 ## 💌 Contact
 <p align="center">
   🌷 <a href="https://github.com/Dunkuti">GitHub</a> ・
-  💬 <a href="https://t.me/yourlink">Telegram</a> ・
-  💖 <a href="https://facebook.com/yourlink">Facebook</a>
+  💬 <a href="https://t.me/ndne9999">Telegram</a> ・
+  💖 <a href="https://www.facebook.com/share/1C6VzbVjr8/">Facebook</a>
 </p>
 
 ---
@@ -97,8 +97,8 @@
 ---
 
 ## 📬 Liên hệ
-- 💌 Facebook: https://facebook.com/yourlink
-- 💬 Telegram: https://t.me/yourlink
+- 💌 Facebook: https://www.facebook.com/share/1C6VzbVjr8/
+- 💬 Telegram: https://t.me/ndne9999
 - 🐱 GitHub: https://github.com/Dunkuti
 
 ---
